@@ -73,4 +73,4 @@ with open(resultFileEmails, 'w') as csvEmailsResults:
             else:
                 csvWriterLinkedIn.writerow(rows)
 
-print("Done, bro")
+print("Done")
